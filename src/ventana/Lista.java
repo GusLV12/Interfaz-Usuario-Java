@@ -1,18 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package ventana;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author meyam
- */
 public class Lista extends javax.swing.JFrame {
 
     public ArrayList db = new ArrayList();
